@@ -21,16 +21,3 @@ Using
     colorscheme pride
 	" Nice light colorscheme.
     colorscheme PaperColor 
-    
-For example, to change the color scheme to wombat:
-    
-    colorscheme wombat
-    
-To change to Molokai:
-
-    colorscheme molokai
-    
-Inside Vim, you use:
-    
-    :colorscheme molokai
-
