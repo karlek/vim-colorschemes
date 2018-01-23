@@ -10,14 +10,26 @@ Add this line to your vim config.
 ```vim
 Plug 'karlek/vim-colorschemes'
 ```
+
     
 Using
 -----
 
+```vim
+" Nice colors <3
+colorscheme evening
+" Fresh colors <3
+colorscheme pride
+" Nice light colorscheme.
+colorscheme PaperColor 
+" Nice dark colorscheme.
+colorscheme hybrid
+```
 
-	" Nice colors <3
-    colorscheme evening
-	" Fresh colors <3
-    colorscheme pride
-	" Nice light colorscheme.
-    colorscheme PaperColor 
+## Credits
+
+https://github.com/Haron-Prime/evening_vim
+https://github.com/lyxell/pride.vim
+https://github.com/NLKNguyen/papercolor-theme
+https://github.com/w0ng/vim-hybrid
+
